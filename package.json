@@ -1,0 +1,19 @@
+{
+    "name": "03-module1-lesson18-task1",
+    "version": "1.0.0",
+    "description": "Learning Rollup bundler.",
+    "main": "index.js",
+    "private": "true",
+    "scripts": {
+        "build": "rollup -c",
+        "start": "rollup -c -w"
+    },
+    "keywords": [
+        "rollup"
+    ],
+    "author": "Mikhail Yanzhura",
+    "license": "ISC",
+    "devDependencies": {
+        "rollup": "^2.75.6"
+    }
+}
